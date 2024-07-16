@@ -1370,6 +1370,7 @@ animation: spinner 1s infinite linear;
 .main-menu__wrapper-inner {
   position: relative;
   display: flex;
+  color: #006400;
   align-items: center;
 }
 
