@@ -8790,7 +8790,7 @@ Events Details Page
   position: relative;
   display: block;
   background: #ffffff;
-  padding: 120px 0px 120px;
+  padding: 0px 0px 60px;
   z-index: 1;
 }
 
@@ -8862,14 +8862,16 @@ Events Details Page
 }
 
 .events-details-page__text-box1 h2 {
-  font-size: 40px;
-  line-height: 50px;
-  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bolder;
   margin-bottom: 25px;
+  text-align: justify;
 }
 
 .events-details-page__text-box1 p {
   margin: 0;
+  text-align: justify;
 }
 
 .events-details-page__text-box2 {
@@ -8879,15 +8881,16 @@ Events Details Page
 }
 
 .events-details-page__text-box2 h2 {
-  font-size: 30px;
-  line-height: 40px;
-  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bolder;
   text-transform: capitalize;
   margin-bottom: 16px;
-}
+  }
 
 .events-details-page__text-box2 p {
   margin: 0;
+  text-align: justify;
 }
 
 
@@ -8953,15 +8956,16 @@ Events Details Page
 
 .events-details-page__text-box4 .text1 {
   margin: 0;
-  margin-bottom: 41px;
+  margin-bottom: 0px;
 }
 
 .events-details-page__text-box4 h2 {
-  font-size: 30px;
-  line-height: 40px;
-  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bolder;
   text-transform: capitalize;
   margin-bottom: 21px;
+  text-align: justify;
 }
 
 .events-details-page__text-box4 .text2 {
@@ -8971,7 +8975,7 @@ Events Details Page
 .events-details-page__text-box4-list {
   position: relative;
   display: block;
-  margin-top: 56px;
+  margin-top: 0px;
 }
 
 .events-details-page__text-box4-list .single-list-box {
