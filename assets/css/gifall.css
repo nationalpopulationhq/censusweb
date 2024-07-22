@@ -4956,6 +4956,10 @@ Footer One
   padding-bottom: 72px;
 }
 
+.top-text h4{
+  color:#ffffff;
+}
+
 .footer-one__top-text {
   position: relative;
   display: block;
